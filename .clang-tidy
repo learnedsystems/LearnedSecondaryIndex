@@ -1,0 +1,4 @@
+---
+Checks: 'bugprone*,google*,llvm-namespace-comment,misc-definitions-in-headers,misc-redundant-expression,performance*,-google-runtime-references,-bugprone-easily-swappable-parameters'
+WarningsAsErrors: '*'
+HeaderFilterRegex: '.*'

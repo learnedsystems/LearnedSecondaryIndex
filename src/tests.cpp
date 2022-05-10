@@ -1,0 +1,6 @@
+#include "tests/art-tests.hpp"
+#include "tests/btree-tests.hpp"
+#include "tests/fast64-tests.hpp"
+#include "tests/hash-tests.hpp"
+#include "tests/lsi-tests.hpp"
+#include "tests/permvector-tests.hpp"

@@ -1,0 +1,7 @@
+cmake-build*/
+data
+data/
+compile_commands.json
+
+benchmark_results.json
+.ipynb_checkpoints/
