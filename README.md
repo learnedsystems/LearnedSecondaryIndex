@@ -39,7 +39,7 @@ target_link_libraries(your_target lsi)
 
 ## Cite
 
-Please cite our [aiDM@SIGMOD 2022 paper](https://dl.acm.org/doi/TODO) if you use this code in your own work, e.g.:
+Please cite our [aiDM@SIGMOD 2022 paper](https://arxiv.org/abs/2205.05769) if you use this code in your own work, e.g.:
 
 <!-- 
 @inproceedings{lsi,
