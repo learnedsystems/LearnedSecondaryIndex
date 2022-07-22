@@ -56,7 +56,7 @@ Please cite our [aiDM@SIGMOD 2022 paper](https://dl.acm.org/doi/TODO) if you use
 -->
 
 ```
-@misc{https://doi.org/10.48550/arxiv.2205.05769,
+@misc{learnedsecondaryindex,
   doi = {10.48550/ARXIV.2205.05769},
   url = {https://arxiv.org/abs/2205.05769},
   author = {Kipf, Andreas and Horn, Dominik and Pfeil, Pascal and Marcus, Ryan and Kraska, Tim},
