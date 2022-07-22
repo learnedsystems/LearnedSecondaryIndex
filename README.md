@@ -39,9 +39,9 @@ target_link_libraries(your_target lsi)
 
 ## Cite
 
-Please cite our [aiDM@SIGMOD 2022 paper](https://dl.acm.org/doi/TODO) if you use this code in your own work:
+Please cite our [aiDM@SIGMOD 2022 paper](https://dl.acm.org/doi/TODO) if you use this code in your own work, e.g.:
 
-```
+<!-- 
 @inproceedings{lsi,
   author    = {Andreas Kipf and
                Dominik Horn and
@@ -52,5 +52,18 @@ Please cite our [aiDM@SIGMOD 2022 paper](https://dl.acm.org/doi/TODO) if you use
 
   #TODO
 
+}
+-->
+
+```
+@misc{https://doi.org/10.48550/arxiv.2205.05769,
+  doi = {10.48550/ARXIV.2205.05769},
+  url = {https://arxiv.org/abs/2205.05769},
+  author = {Kipf, Andreas and Horn, Dominik and Pfeil, Pascal and Marcus, Ryan and Kraska, Tim},
+  keywords = {Databases (cs.DB), Machine Learning (cs.LG), FOS: Computer and information sciences, FOS: Computer and information sciences},
+  title = {LSI: A Learned Secondary Index Structure},
+  publisher = {arXiv},
+  year = {2022}, 
+  copyright = {arXiv.org perpetual, non-exclusive license}
 }
 ```
