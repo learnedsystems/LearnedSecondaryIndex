@@ -5,7 +5,7 @@ set(GOOGLETEST_LIBRARY gtest_main)
 FetchContent_Declare(
   ${GOOGLETEST_CONTENT}
   GIT_REPOSITORY https://github.com/google/googletest.git
-  GIT_TAG 25ad42a 
+  GIT_TAG v1.14.0
   )
 
 # For Windows: Prevent overriding the parent project's compiler/linker settings

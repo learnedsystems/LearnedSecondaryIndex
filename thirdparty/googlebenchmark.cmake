@@ -8,7 +8,7 @@ ExternalProject_Add(
         ${GOOGLEBENCHMARK_LIBRARY}_src
         PREFIX ../external/${GOOGLEBENCHMARK_LIBRARY}
         GIT_REPOSITORY "https://github.com/google/benchmark.git"
-        GIT_TAG v1.6.1
+        GIT_TAG v1.8.2
         TIMEOUT 10
         CMAKE_ARGS
         -DCMAKE_INSTALL_PREFIX=${PROJECT_BINARY_DIR}/external/${GOOGLEBENCHMARK_LIBRARY}
